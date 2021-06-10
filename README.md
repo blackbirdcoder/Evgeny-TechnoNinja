@@ -1,4 +1,4 @@
-![image](./img/banner.png)
+![image](https://user-images.githubusercontent.com/37265185/121514523-cb015f00-c9f4-11eb-95e2-e2e8c906fc05.png)
 
 
 
