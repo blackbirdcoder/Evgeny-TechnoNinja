@@ -1,4 +1,6 @@
-![image](https://user-images.githubusercontent.com/37265185/121509717-9b9c2380-c9ef-11eb-8228-9a209136e390.png)
+![image](img/banner.png)
+
+
 
 <!--
 **Evgeny-TechnoNinja/Evgeny-TechnoNinja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
