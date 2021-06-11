@@ -1,6 +1,6 @@
 <h2 align="center">Welcom to my Home</h2>
 
-![pictures](/img/header.jpeg)
+![pictures](/img/ghh.jpg)
 
 <h2 align="center">Not everyone can afford to write code indefinitely</h2>
 
