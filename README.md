@@ -2,9 +2,10 @@
 
 
 ## Who am I 👽
-
-An enthusiastic programmer, I like minimal techno, science fiction and ufology.  
-I respect the underground and the old school. I like freedom.
+<div align="center">
+  <p>An enthusiastic programmer, I like minimal techno, science fiction and ufology.</p>  
+  <p>I respect the underground and the old school. I like freedom.</p>
+</div>
 
 
 ## Tools I Use 🛠
