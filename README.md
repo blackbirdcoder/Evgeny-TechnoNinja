@@ -1,5 +1,5 @@
 ![img](https://github.com/Evgeny-TechnoNinja/Evgeny-TechnoNinja/img/header.jpeg)
-
+![pictures](/img/header.jpeg)
 <!--
 **Evgeny-TechnoNinja/Evgeny-TechnoNinja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
