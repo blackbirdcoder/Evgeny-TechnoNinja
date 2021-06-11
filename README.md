@@ -4,4 +4,4 @@
 ## Who am I 👽
 
 An enthusiastic programmer, I like minimal techno, science fiction and ufology.  
-I respect the underground and the old school. Like freedom.
+I respect the underground and the old school. I like freedom.
