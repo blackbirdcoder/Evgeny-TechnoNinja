@@ -1,4 +1,4 @@
-<h2 align="center">Welcome to my Home</h2>
+<h1 align="center">Welcome to my Home</h1>
 
 <div align="center">
   <img align="middle" src="/img/ghh.jpg" alt="logo" width="600"/>
