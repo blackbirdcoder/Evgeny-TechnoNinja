@@ -37,4 +37,4 @@
 
 ## Statistics 📊
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evgeny-TechnoNinja&show_icons=true&theme=buefy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evgeny-TechnoNinja&show_icons=true&theme=graywhite)
