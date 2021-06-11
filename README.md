@@ -34,3 +34,7 @@
   <img src="/img/inkscape-original.svg" alt="inkscape" width="40" height="40" />
   <img src="/img/linux-original.svg" alt="linux" width="40" height="40" />
 <div>
+
+## Statistics
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evgeny-TechnoNinja&show_icons=true&theme=radical)
