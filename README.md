@@ -1,6 +1,6 @@
 <h2 align="center">Welcom to my Home</h2>
 
-<img align="center" src="/img/ghh.jpg" alt="logo" width="600"/>
+<img align="middle" src="/img/ghh.jpg" alt="logo" width="600"/>
 
 <h2 align="center">Not everyone can afford to write code indefinitely</h2>
 
