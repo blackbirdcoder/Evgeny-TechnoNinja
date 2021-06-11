@@ -15,7 +15,7 @@
 
 ## Tools I Use 🛠
 
-<div align="center">
+<div align="left">
   <img src="/img/python-original.svg" alt="python" width="40" height="40" />
   <img src="/img/javascript-original.svg" alt="js" width="40" height="40" />
   <img src="/img/nodejs-original.svg" alt="nodejs" width="40" height="40" />
