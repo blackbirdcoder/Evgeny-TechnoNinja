@@ -28,6 +28,7 @@
   <img src="/img/mongodb-original.svg" alt="mongodb" width="40" height="40" />
   <img src="/img/sqlite.svg" alt="sqlite" width="40" height="40" />
   <img src="/img/git-original-wordmark.svg" alt="git" width="40" height="40" />
+  <img src="/img/heroku-original.svg" alt="heroku" width="40" height="40" />
   <img src="/img/pycharm-original.svg" alt="pycharm" width="40" height="40" />
   <img src="/img/512px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="40" height="40" />
   <img src="/img/figma-original.svg" alt="figma" width="40" height="40" />
