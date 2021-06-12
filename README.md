@@ -1,3 +1,8 @@
+<style>
+  td {
+    border: 0;
+  }
+</style>
 <h1 align="center">Welcome to my Home</h1>
 
 <div align="center">
