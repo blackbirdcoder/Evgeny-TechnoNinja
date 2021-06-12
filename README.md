@@ -42,12 +42,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgeny-TechnoNinja&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Evgeny-TechnoNinja" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Evgeny-TechnoNinja" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Evgeny-TechnoNinja&show_icons=true&theme=graywhite&line_height=33" alt="stat"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evgeny-TechnoNinja&langs_count=compact" alt="stat"/>
 </div>
 
 
