@@ -47,9 +47,12 @@
   <i>I am ready for cooperation and communication</i>
 </div>
 
-<div>
-  <img src="/img/Telegram_logo.svg" alt="telegram" width="30" height="30" /> <span style="position: relative; top: -10px;"><b>@Eugene_TechnoNinja</b></span>
-</div>
+<table>
+  <tr>
+    <td><img src="/img/Telegram_logo.svg" alt="telegram" width="30" height="30" /></td>
+    <td><b>@Eugene_TechnoNinja</b></td>
+  </tr>
+</table>
 
 
 ## Donate 💰 
