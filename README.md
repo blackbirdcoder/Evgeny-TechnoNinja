@@ -44,11 +44,11 @@
 
 ## Contacts 📟
 <div>
-  I am ready for cooperation and communication
+  <i>I am ready for cooperation and communication</i>
 </div>
 
 <div>
-  <img src="/img/Telegram_logo.svg" alt="telegram" width="40" height="40" /> <span><b>@Eugene_TechnoNinja</b></span>
+  <img src="/img/Telegram_logo.svg" alt="telegram" width="20" height="20" /> <span><b>@Eugene_TechnoNinja</b></span>
 </div>
 
 
