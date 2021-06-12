@@ -1,8 +1,3 @@
-<style>
-  td {
-    border: 0;
-  }
-</style>
 <h1 align="center">Welcome to my Home</h1>
 
 <div align="center">
@@ -46,6 +41,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgeny-TechnoNinja&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Evgeny-TechnoNinja&show_icons=true&theme=graywhite" alt="stat"/>
+</div>
+
 
 ## Contacts 📟
 <div>
@@ -54,8 +53,8 @@
 
 <table>
   <tr>
-    <td style="border: 0"><img src="/img/Telegram_logo.svg" alt="telegram" width="30" height="30" /></td>
-    <td style="border: 0"><b>@Eugene_TechnoNinja</b></td>
+    <td><img src="/img/Telegram_logo.svg" alt="telegram" width="30" height="30" /></td>
+    <td><b>@Eugene_TechnoNinja</b></td>
   </tr>
 </table>
 
