@@ -43,7 +43,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Evgeny-TechnoNinja&show_icons=true&theme=graywhite&line_height=33" alt="stat"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evgeny-TechnoNinja&langs_count=compact" alt="stat"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evgeny-TechnoNinja&layout=compact" alt="stat"/>
 </div>
 
 
