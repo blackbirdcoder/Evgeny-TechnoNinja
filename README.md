@@ -45,8 +45,9 @@
 ## Donate 💰 
 
 <div>
-  <span>Support me with money 💸</span> <img src="/img/payeer.svg" alt="payeer" width="80" /> <span>💸</span>
+  <span>💸</span> <img src="/img/payeer.svg" alt="payeer" width="80" /> <span>💸</span>
 </div>
 <div>
   <span>My wallet:</span> <b>P1008124133</b> 
 </div>
+<div><span>Support me with money 😉</span></div>
