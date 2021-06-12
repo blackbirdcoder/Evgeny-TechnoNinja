@@ -37,10 +37,6 @@
 
 ## Statistics 📊
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evgeny-TechnoNinja&show_icons=true&theme=graywhite)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgeny-TechnoNinja&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Evgeny-TechnoNinja&show_icons=true&theme=graywhite&line_height=20" alt="stat"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evgeny-TechnoNinja&layout=compact" alt="stat"/>
