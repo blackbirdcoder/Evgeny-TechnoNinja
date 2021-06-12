@@ -45,7 +45,7 @@
 
 ## Contacts 📟
 <div>
-  <i>I am ready for cooperation and communication</i>
+  <b>I am ready for cooperation and communication</b>
 </div>
 
 <table>
