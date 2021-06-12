@@ -48,7 +48,7 @@
 </div>
 
 <div>
-  <img src="/img/Telegram_logo.svg" alt="telegram" width="20" height="20" /> <span><b>@Eugene_TechnoNinja</b></span>
+  <img src="/img/Telegram_logo.svg" alt="telegram" width="30" height="30" /> <span style="position: relative; top: -10px;"><b>@Eugene_TechnoNinja</b></span>
 </div>
 
 
