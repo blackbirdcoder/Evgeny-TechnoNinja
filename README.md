@@ -45,7 +45,7 @@
 ## Donate 💰 
 
 <div>
-  <img src="/img/payeer.svg" alt="payeer" width="80" height="80" />
+  <img src="/img/payeer.svg" alt="payeer" width="80" />
 </div>
 <div>
   <span>Support me with money 💸</span>
