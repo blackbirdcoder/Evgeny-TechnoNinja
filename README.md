@@ -42,6 +42,16 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgeny-TechnoNinja&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+## Contacts 📟
+<div>
+  I am ready for cooperation and communication
+</div>
+
+<div>
+  <img src="/img/Telegram_logo.svg" alt="telegram" width="40" height="40" /> <span><b>@Eugene_TechnoNinja</b></span>
+</div>
+
+
 ## Donate 💰 
 
 <div>
