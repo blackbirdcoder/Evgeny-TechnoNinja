@@ -21,9 +21,11 @@
   <img src="/img/nodejs-original.svg" alt="nodejs" width="40" height="40" />
   <img src="/img/html5-original.svg" alt="html" width="40" height="40" />
   <img src="/img/css3-original.svg" alt="css" width="40" height="40" />
+  <img src="/img/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" />
   <img src="/img/pug_p.svg" alt="pug" width="40" height="40" />
   <img src="/img/sass-original.svg" alt="sass" width="40" height="40" />
   <img src="/img/gulp-plain.svg" alt="gulp" width="40" height="40" />
+  <img src="/img/webpack-original.svg" alt="webpack" width="40" height="40" />
   <img src="/img/npm-original-wordmark.svg" alt="npm" width="40" height="40" />
   <img src="/img/mongodb-original.svg" alt="mongodb" width="40" height="40" />
   <img src="/img/sqlite.svg" alt="sqlite" width="40" height="40" />
