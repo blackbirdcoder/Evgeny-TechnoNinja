@@ -62,7 +62,7 @@
 ## Donate 💰 
 
 <div>
-  <span>💸</span> <img src="/img/payeer.svg" alt="payeer" width="80" /> <span>💸</span>
+  <a href="https://payeer.com/"><span>💸</span> <img src="/img/payeer.svg" alt="payeer" width="80" /> <span>💸</span></a>
 </div>
 <div>
   <span>My wallet:</span> <b>P1008124133</b> 
