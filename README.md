@@ -52,7 +52,7 @@
 <table>
   <tr>
     <td><img src="/img/Telegram_logo.svg" alt="telegram" width="30" height="30" /></td>
-    <td><b>[@Eugene_TechnoNinja](https://telegram.me/Eugene_TechnoNinja)</b></td>
+    <td><b><a href="https://telegram.me/Eugene_TechnoNinja">@Eugene_TechnoNinja</a></b></td>
   </tr>
 </table>
 
