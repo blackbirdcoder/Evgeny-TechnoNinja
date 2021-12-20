@@ -28,10 +28,10 @@
   <img src="/img/sqlite.svg" alt="sqlite" width="40" height="40" />
   <img src="/img/git-original-wordmark.svg" alt="git" width="40" height="40" />
   <img src="/img/heroku-original.svg" alt="heroku" width="40" height="40" />
-  <img src="/img/bs.png" alt="bs" width="40" height="40" />
+  <img src="/img/bs.png" alt="bs" width="80" height="40" />
   <img src="/img/Requests_Python_Logo.png" alt="Requests" width="40" height="40" />
   <img src="/img/selenium.png" alt="Selenium" width="40" height="40" />
-  <img src="/img/scrapylogo.png" alt="Scrapy" width="40" height="40" />
+  <img src="/img/scrapylogo.png" alt="Scrapy" width="80" height="40" />
   <img src="/img/postman.png" alt="Postman" width="40" height="40" />
   <img src="/img/linux-original.svg" alt="linux" width="40" height="40" />
 <div>
