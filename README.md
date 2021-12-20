@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my Home</h1>
 
 <div align="center">
-  <img align="middle" src="/img/hackgigmatrix000012.gif" alt="logo" width="400"/>
+  <img align="middle" src="/img/hackgigmatrix000012.gif" alt="logo" width="600"/>
 </div>
 
 <h2 align="center">Not everyone can afford to write code indefinitely</h2>
@@ -33,7 +33,7 @@
 
 ## Statistics 📊
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evgeny-TechnoNinja&layout=compact" alt="stat"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Evgeny-TechnoNinja&show_icons=true&theme=graywhite&line_height=20" alt="stat"/>
 </div>
