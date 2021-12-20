@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my Home</h1>
 
 <div align="center">
-  <img align="middle" src="/img/ghh.jpg" alt="logo" width="600"/>
+  <img align="middle" src="/img/hackgigmatrix000012.gif" alt="logo" width="600"/>
 </div>
 
 <h2 align="center">Not everyone can afford to write code indefinitely</h2>
@@ -21,20 +21,13 @@
   <img src="/img/nodejs-original.svg" alt="nodejs" width="40" height="40" />
   <img src="/img/html5-original.svg" alt="html" width="40" height="40" />
   <img src="/img/css3-original.svg" alt="css" width="40" height="40" />
-  <img src="/img/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" />
   <img src="/img/pug_p.svg" alt="pug" width="40" height="40" />
   <img src="/img/sass-original.svg" alt="sass" width="40" height="40" />
-  <img src="/img/gulp-plain.svg" alt="gulp" width="40" height="40" />
-  <img src="/img/webpack-original.svg" alt="webpack" width="40" height="40" />
-  <img src="/img/npm-original-wordmark.svg" alt="npm" width="40" height="40" />
   <img src="/img/mongodb-original.svg" alt="mongodb" width="40" height="40" />
   <img src="/img/sqlite.svg" alt="sqlite" width="40" height="40" />
   <img src="/img/git-original-wordmark.svg" alt="git" width="40" height="40" />
   <img src="/img/heroku-original.svg" alt="heroku" width="40" height="40" />
   <img src="/img/pycharm-original.svg" alt="pycharm" width="40" height="40" />
-  <img src="/img/512px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="40" height="40" />
-  <img src="/img/figma-original.svg" alt="figma" width="40" height="40" />
-  <img src="/img/inkscape-original.svg" alt="inkscape" width="40" height="40" />
   <img src="/img/linux-original.svg" alt="linux" width="40" height="40" />
 <div>
 
