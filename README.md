@@ -7,15 +7,11 @@
 <h2 align="center">Not everyone can afford to write code indefinitely</h2>
 
 ## Who am I 👽
-<div align="left">
-  <b>An enthusiastic programmer, I like minimal techno, science fiction and ufology.</b><br>
-  <b>I respect the underground and the old school. I like freedom.</b>
-</div>
 <table>
 	<tbody>
 		<tr>
 			<td>
-                <img align="middle" src="/img/bbavatar00.png" alt="avatar one" width="200"/>
+                <img align="middle" src="/img/bbavatar00.png" alt="avatar one" width="150"/>
             </td>
 			<td>
                 <b>An enthusiastic programmer, I like minimal techno, science fiction and ufology.</b><br>
