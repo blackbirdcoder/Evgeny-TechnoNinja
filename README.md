@@ -59,7 +59,7 @@
 </div>
 
 
-## Contacts 📟
+<h3>Contacts 📟</h3>
 <div>
   <b>I am ready for cooperation and communication</b>
 </div>
