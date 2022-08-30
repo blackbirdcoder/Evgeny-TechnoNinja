@@ -1,10 +1,10 @@
-<h1 align="center">Welcome to my Home</h1>
+<h1 align="center" style="background: black;font-family:monospace;color:#eee8d5;">Welcome to my Home</h1>
 
 <div align="center">
   <img align="middle" src="/img/logoudggolds.png" alt="logo" width="400"/>
 </div>
 
-<h2 align="center">Not everyone can afford to write code indefinitely</h2>
+<h2 align="center" style="background:black;font-family:monospace;color:#eee8d5;">Not everyone can afford to write code indefinitely</h2>
 
 ## Who am I 👽
 <div align="left">
@@ -18,11 +18,8 @@
 <div align="left">
   <img src="/img/python-original.svg" alt="python" width="40" height="40" />
   <img src="/img/javascript-original.svg" alt="js" width="40" height="40" />
-  <img src="/img/nodejs-original.svg" alt="nodejs" width="40" height="40" />
   <img src="/img/html5-original.svg" alt="html" width="40" height="40" />
   <img src="/img/css3-original.svg" alt="css" width="40" height="40" />
-  <img src="/img/pug_p.svg" alt="pug" width="40" height="40" />
-  <img src="/img/sass-original.svg" alt="sass" width="40" height="40" />
   <img src="/img/mongodb-original.svg" alt="mongodb" width="40" height="40" />
   <img src="/img/Postgresql_elephant.svg" alt="Postgresql" width="40" height="40" />
   <img src="/img/sqlite.svg" alt="sqlite" width="40" height="40" />
