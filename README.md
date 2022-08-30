@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my Home</h1>
 
 <div align="center">
-  <img align="middle" src="/img/logoudggold.png" alt="logo" width="400"/>
+  <img align="middle" src="/img/logoudggolds.png" alt="logo" width="400"/>
 </div>
 
 <h2 align="center">Not everyone can afford to write code indefinitely</h2>
