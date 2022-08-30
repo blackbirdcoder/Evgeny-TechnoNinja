@@ -1,10 +1,10 @@
-<h1 align="center" style="background: black;font-family:monospace;color:#eee8d5;">Welcome to my Home</h1>
+<h1 align="center" style="font-family:monospace;">Welcome to my Home</h1>
 
 <div align="center">
   <img align="middle" src="/img/logoudggolds.png" alt="logo" width="400"/>
 </div>
 
-<h2 align="center" style="background:black;font-family:monospace;color:#eee8d5;">Not everyone can afford to write code indefinitely</h2>
+<h2 align="center" style="font-family:monospace;">Not everyone can afford to write code indefinitely</h2>
 
 ## Who am I 👽
 <div align="left">
