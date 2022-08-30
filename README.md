@@ -63,7 +63,10 @@
 		</tr>
 	</tbody>
 </table>
-
+<!-- BEGIN: Powered by Ipaddress.is -->
+<script type="text/javascript" src="//ipaddress.is/ipwidget.php?type=1&nogeo=1&nosys=1"></script>
+<p><a href="https://my.ipaddress.is">My IP Location</a></p>
+<!-- END: Powered by Ipaddress.is -->
 
 ## Contacts 📟
 <div>
