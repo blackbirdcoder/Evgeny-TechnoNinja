@@ -44,12 +44,6 @@
 
 ## Statistics 📊
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evgeny-TechnoNinja&theme=solarized-dark&border_color=CC7956" alt="stat"/>
-</div>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Evgeny-TechnoNinja&show_icons=true&theme=solarized-dark&line_height=20&border_color=CC7956" alt="stat"/>
-</div>
 <table>
 	<tbody>
 		<tr>
