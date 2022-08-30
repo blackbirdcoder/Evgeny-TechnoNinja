@@ -48,6 +48,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evgeny-TechnoNinja&layout=compact" alt="stat"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Evgeny-TechnoNinja&show_icons=true&theme=graywhite&line_height=20" alt="stat"/>
 </div>
+<div>
+    <a href="https://info.flagcounter.com/qfx6">
+        <img src="https://s11.flagcounter.com/count2/qfx6/bg_002B36/txt_fdf6e3/border_CC7956/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0">
+    </a>
+</div>
 
 
 ## Contacts 📟
