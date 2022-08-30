@@ -10,7 +10,7 @@
 <table>
 	<tbody>
 		<tr>
-			<td>
+			<td style="background: #657b83;">
                 <img align="middle" src="/img/bbavatar00.png" alt="avatar one" width="150"/>
             </td>
 			<td>
