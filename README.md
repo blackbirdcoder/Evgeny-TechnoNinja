@@ -28,7 +28,7 @@
   <img src="/img/Requests_Python_Logo.png" alt="Requests" width="40" height="40" />
   <img src="/img/selenium.png" alt="Selenium" width="40" height="40" />
   <img src="/img/scrapylogo.png" alt="Scrapy" width="80" height="40" />
-  <img src="/img/flask.png" alt="Flask" width="80" height="40" />
+  <img src="/img/flask.png" alt="Flask" width="40" height="40" />
   <img src="/img/postman.png" alt="Postman" width="40" height="40" />
   <img src="/img/linux-original.svg" alt="linux" width="40" height="40" />
 <div>
