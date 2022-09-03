@@ -47,7 +47,7 @@
 <table>
 	<tbody>
 		<tr>
-			<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evgeny-TechnoNinja&theme=solarized-dark&border_color=CC7956" alt="stat"/></td>
+			<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evgeny-TechnoNinja&theme=solarized-dark&border_color=CC7956&hide=javascript" alt="stat"/></td>
 			<td><img src="https://github-readme-stats.vercel.app/api?username=Evgeny-TechnoNinja&show_icons=true&theme=solarized-dark&line_height=20&border_color=CC7956" alt="stat"/></td>
 		</tr>
 	</tbody>
