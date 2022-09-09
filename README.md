@@ -28,15 +28,15 @@
 		<tr>
 			<td><img src="/img/Attention.svg" alt="Attention" width="80" height="80" /></td>
 			<td>
-                <b>All attention, I'm moving from GitHub to a new more convenient and cleaner Codeberg service.
-                See all my new work here https://codeberg.org/blackbird.dev</b>
+                <b>Attention everyone, I'm moving from GitHub to the new more aesthetic Codeberg service. 
+                I do this for my own personal reasons. See all my new work here https://codeberg.org/blackbird.dev</b>
             </td>
 			<td><img src="/img/Attention.svg" alt="Attention" width="80" height="80" /></td>
 		</tr>
 		<tr>
 			<td><img src="/img/Attention.svg" alt="Attention" width="80" height="80" /></td>
-			<td><b>Увага, я переходжу з GitHub на новий, більш зручний і чистий сервіс Codeberg.
-                Перегляньте всі мої нові роботи тут https://codeberg.org/blackbird.dev</b></td>
+			<td><b>This account will by no means be abandoned, but most likely my new projects will not be posted here.
+            See everything new <a href="https://codeberg.org/blackbird.dev" target="_blank">here</a></b></td>
 			<td><img src="/img/Attention.svg" alt="Attention" width="80" height="80" /></td>
 		</tr>
 	</tbody>
