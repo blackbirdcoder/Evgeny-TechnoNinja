@@ -26,18 +26,18 @@
 <table border="1">
 	<tbody>
 		<tr>
-			<td><img src="/img/Attention.svg" alt="Attention" width="40" height="40" /></td>
+			<td><img src="/img/Attention.svg" alt="Attention" width="80" height="80" /></td>
 			<td>
-                All attention, I'm moving from GitHub to a new more convenient and cleaner Codeberg service.
-                See all my new work here https://codeberg.org/blackbird.dev
+                <b>All attention, I'm moving from GitHub to a new more convenient and cleaner Codeberg service.
+                See all my new work here https://codeberg.org/blackbird.dev</b>
             </td>
-			<td><img src="/img/Attention.svg" alt="Attention" width="40" height="40" /></td>
+			<td><img src="/img/Attention.svg" alt="Attention" width="80" height="80" /></td>
 		</tr>
 		<tr>
-			<td><img src="/img/Attention.svg" alt="Attention" width="40" height="40" /></td>
-			<td>Увага, я переходжу з GitHub на новий, більш зручний і чистий сервіс Codeberg.
-                Перегляньте всі мої нові роботи тут https://codeberg.org/blackbird.dev</td>
-			<td><img src="/img/Attention.svg" alt="Attention" width="40" height="40" /></td>
+			<td><img src="/img/Attention.svg" alt="Attention" width="80" height="80" /></td>
+			<td><b>Увага, я переходжу з GitHub на новий, більш зручний і чистий сервіс Codeberg.
+                Перегляньте всі мої нові роботи тут https://codeberg.org/blackbird.dev</b></td>
+			<td><img src="/img/Attention.svg" alt="Attention" width="80" height="80" /></td>
 		</tr>
 	</tbody>
 </table>
