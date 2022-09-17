@@ -21,9 +21,9 @@
 	</tbody>
 </table>
 
-<hr>
+[//]: # (<hr>)
 
-<table border="1">
+[//]: # (<table border="1">)
 
 [//]: # (	<tbody>)
 
@@ -56,7 +56,7 @@
 [//]: # (		</tr>)
 
 [//]: # (	</tbody>)
-</table>
+[//]: # (</table>)
 
 ## Tools I Use 🛠
 
